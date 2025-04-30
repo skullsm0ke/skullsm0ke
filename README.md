@@ -4,4 +4,4 @@ hola, soy Jordan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giph
 
 💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software
 
-🎓 &nbsp; Actualmente estoy estudiando ingeneria en informatica en el intituto virginio gomez
+🎓 &nbsp; Actualmente estoy estudiando ingenieria en informatica en el intituto virginio gomez
